@@ -5,7 +5,7 @@ while(1):
     #dist = int(dist)
     #trials = int(trials)
     jumps = 0
-    dist = random.randint(35, 100)
+    dist = random.randint(1, 100)
     trials = 1000000
     print(dist)
     
